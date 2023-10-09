@@ -33,4 +33,4 @@ No external resources were used on this challenge.
 
 ## Acknowledgments
 
-A big thank you to anyone providing feedback on my [solution](). It definitely helps to find new ways to code and find easier solutions!
+A big thank you to anyone providing feedback on my [solution](https://www.frontendmentor.io/solutions/responsive-single-price-grid-component-challenge-using-grid-and-flex-BTC95i7HDt). It definitely helps to find new ways to code and find easier solutions!
