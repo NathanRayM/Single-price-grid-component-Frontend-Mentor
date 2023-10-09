@@ -1,11 +1,11 @@
-![Single price grid component]()
+![Single price grid component](https://github.com/NathanRayM/Single-price-grid-component-Frontend-Mentor/blob/main/Singlepricegrid-SS.png)
 
 <h1 align="center">Single price grid component</h1>
 
 <div align="center">
 
-[Live]()
-| [Solution]()
+[Live](https://nathanraym.github.io/Single-price-grid-component-Frontend-Mentor/)
+| [Solution](https://github.com/NathanRayM/Single-price-grid-component-Frontend-Mentor.git)
 | [Challenge](https://www.frontendmentor.io/challenges/single-price-grid-component-5ce41129d0ff452fec5abbbc)
 
 Solution for a challenge from [frontendmentor.io](https://www.frontendmentor.io/)
